@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "reactsnippets",
+    "Description": "React & React Native component snippets in JS and TS",
+    "Website": "https://github.com/ibrahimpg/react-snippets-micro",
+    "Tags": ["react", "react native"],
+    "License": "MIT",
+    "Versions": [
+      {
+        "Version": "v1.0.0",
+        "Url": "https://github.com/ibrahimpg/react-snippets-micro/archive/v1.0.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]
